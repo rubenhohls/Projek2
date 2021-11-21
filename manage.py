@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!D:\Alles\Jaar 3\Django\venv\Scripts python
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
@@ -21,5 +21,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-dankie ffs 123 yayy
 
